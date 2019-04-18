@@ -1,0 +1,1 @@
+Select concat (upper(first_name), ' ', upper(last_name)) as 'Actor Name' from actor;
